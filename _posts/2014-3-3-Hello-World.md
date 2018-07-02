@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: Week 1: Hybrid computing using a neural network with dynamic external memory
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Paper Title: Hybrid computing using a neural network with dynamic external memory  
+Reason: some of the recent deep SLAMs are utilizing differentiable neural computer(DNC). This is the original paper on DNC.
+Explanation: ​https://greydanus.github.io/2017/02/27/differentiable-memory-and-the-brain/​
+Code and videos are available.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+It's application in SLAM.
+https://arxiv.org/abs/1702.08360​
+https://arxiv.org/abs/1706.09520
+Related video to this.
+https://vimeo.com/252185932
