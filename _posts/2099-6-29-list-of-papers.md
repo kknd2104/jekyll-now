@@ -1,6 +1,6 @@
 ---
 layout: post
-title: List of papers
+title: List of papers to read
 ---
 
 Please, feel free to add papers to this list.
