@@ -3,6 +3,7 @@ layout: post
 title: List of papers
 ---
 
+Please, feel free to add papers to this list.
 
 - neural scene representation and rendering
 - hybrid computing using a neural network with dynamic external memory
