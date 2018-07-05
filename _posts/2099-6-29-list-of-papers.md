@@ -13,6 +13,6 @@ Please, feel free to add papers to this list.
 		Topic, Paper links	Area
 | Date| Discussion Leader|Area| Paper links|
 | ------------- |:-------------:| -----:| -----:|
-| col 3 is      | right-aligned | $1600 | |
-| col 2 is      | centered      |   $12 | |
-| zebra stripes | are neat      |    $1 | |
+| col 3 is      | right-aligned | $1600 |aligned |
+| col 2 is      | centered      |   $12 |aligned |
+| zebra stripes | are neat      |    $1 |aligned |
