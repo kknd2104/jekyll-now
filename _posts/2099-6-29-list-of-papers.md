@@ -4,11 +4,12 @@ title: List of papers to read
 ---
 
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+
+| Date | Discussion Leader | Area | Paper links |
+| ------------- |:-------------:| -----:| -----:|
+| col 3 is      | right-aligned | $1600 | aligned |
+| col 2 is      | centered      |   $12 | aligned |
+| zebra stripes | are neat      |    $1 | aligned |
 
 
 Please, feel free to add papers to this list.
