@@ -10,7 +10,7 @@ Please, feel free to add papers to this list.
 | ------------- |:-----------------:|:-------------:|:-----------:|
 |   29.06.18    | Chanoh            | Deep Learning | Hybrid computing using a neural network with dynamic external memory(1) |
 |   11.07.18    | Chanoh            | Deep Learning | Hybrid computing using a neural network with dynamic external memory(2) |
-|               |                   |               | Neural SLAM, Neural Map |
-|               |                   |               | Neural scene representation and rendering |
-|               |                   |               | Global pose estimation with an attention-based recurrent network |
-|               |                   |               | SPLATNet: Sparse Lattice Networks for Point Cloud Processing |
+|               | Chanoh            | Deep SLAM     | Neural SLAM, Neural Map |
+|               | Chanoh            | Deep SLAM     | Neural scene representation and rendering |
+|               | Chanoh            | Deep SLAM     | Global pose estimation with an attention-based recurrent network |
+|               |                   | Deep Learning | SPLATNet: Sparse Lattice Networks for Point Cloud Processing |
