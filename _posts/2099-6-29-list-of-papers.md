@@ -14,5 +14,5 @@ Please, feel free to add papers to this list.
 |               | Chanoh | Deep SLAM     | Neural scene representation and rendering |
 |               | Chanoh | Deep SLAM     | Global pose estimation with an attention-based recurrent network |
 |               |        | Deep Learning | SPLATNet: Sparse Lattice Networks for Point Cloud Processing |
-
+|               |        | Deep SLAM     | Learning to Navigate in Cities Without a Map |
 
