@@ -6,6 +6,9 @@ title: Schedule
 
 Please, feel free to add papers to this list.
 
+
+[original file link](https://github.com/kknd2104/kknd2104.github.io/blob/master/_posts/2018-6-29-week1.md)
+
 | Date          | Leader | Area          | Links       |
 | ------------- |:------:|:-------------:|:-----------:|
 |   29.06.18    | Chanoh | Deep Learning | [Hybrid computing using a neural network with dynamic external memory(1)](https://kknd2104.github.io/week1/) |
