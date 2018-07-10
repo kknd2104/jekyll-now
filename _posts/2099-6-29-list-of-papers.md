@@ -7,7 +7,7 @@ title: Schedule
 Please, feel free to add papers to this list.
 
 
-[original file link](https://github.com/kknd2104/kknd2104.github.io/blob/master/_posts/2018-6-29-week1.md)
+[original file link](https://github.com/kknd2104/kknd2104.github.io/blob/master/_posts/2099-6-29-list-of-papers.md)
 
 | Date          | Leader | Area          | Links       |
 | ------------- |:------:|:-------------:|:-----------:|
